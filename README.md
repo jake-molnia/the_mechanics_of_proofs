@@ -1,1 +1,1 @@
-# the_mechanics_of_proofs
+# The Mechanics of Proofs
